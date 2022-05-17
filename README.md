@@ -13,3 +13,7 @@ My LeetCode solutions and DSA practice codes.
 |  Kth Largest Element in an Array | https://leetcode.com/problems/kth-largest-element-in-an-array/ | [solution](https://github.com/deep-shikha1701/DSA-Leetcode/blob/main/Kth%20Largest%20Element%20in%20an%20Array.cpp)
 |  Trapping Rain Water | https://leetcode.com/problems/trapping-rain-water/ | [solution](https://github.com/deep-shikha1701/DSA-Leetcode/blob/main/Trapping%20Rain%20Water.cpp)
 |  Product of Array Except Self | https://leetcode.com/problems/product-of-array-except-self/ | [solution](https://github.com/deep-shikha1701/DSA-Leetcode/blob/main/Product%20of%20Array%20Except%20Self.cpp)
+|   Maximum Product Subarray | https://leetcode.com/problems/maximum-product-subarray/ | [solution](https://github.com/deep-shikha1701/DSA-Leetcode/blob/main/Maximum%20Product%20Subarray.cpp)
+|   Find Minimum in Rotated Sorted Array | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ | [solution](https://github.com/deep-shikha1701/DSA-Leetcode/blob/main/Find%20Minimum%20in%20Rotated%20Sorted%20Array.cpp)
+|   3Sum | https://leetcode.com/problems/3sum/ | [solution](https://github.com/deep-shikha1701/DSA-Leetcode/blob/main/ThereeSum.cpp)
+|   Container With Most Water | https://leetcode.com/problems/container-with-most-water/ | [solution](https://github.com/deep-shikha1701/DSA-Leetcode/blob/main/Container%20With%20Most%20Water.cpp)
